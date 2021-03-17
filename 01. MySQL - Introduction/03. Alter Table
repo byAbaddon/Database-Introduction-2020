@@ -1,0 +1,7 @@
+                                                             
+                                                               WFT FUCKING JUDGE ???
+
+
+ALTER TABLE `employees` ADD `middle_name` VARCHAR(50) NOT NULL DEFAULT '';            
+
+#AFTER first_name

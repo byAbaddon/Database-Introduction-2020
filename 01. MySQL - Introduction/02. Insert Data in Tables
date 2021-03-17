@@ -1,0 +1,3 @@
+INSERT INTO `employees` (`id`, `first_name`, `last_name`) VALUES (NULL, 'Bat', 'Boyko');
+INSERT INTO `employees` (`id`, `first_name`, `last_name`) VALUES (NULL, 'Bat', 'Sali');
+INSERT INTO `employees` (`id`, `first_name`, `last_name`) VALUES (NULL, 'Bace', 'Venci');
